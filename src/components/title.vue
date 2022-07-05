@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>La prima app con Vue Cli </h1>
+    <h1>{{ msg }} </h1>
   </div>
 </template>
 
